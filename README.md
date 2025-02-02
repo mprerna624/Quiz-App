@@ -68,20 +68,22 @@ npm run dev
 
 1. Loading Screen (While data is fetching)
 
-    ![Loading Screen](./assets/loading-screen.png)
+    ![Loading Screen](./src/assets/loading-screen.png)
+
+    ---
 
 2. Start Quiz Screen
 
-    ![Start Screen ](./assets/start-screen.png)
+    ![Start Screen ](./src/assets/start-screen.png)
 
 3. Question Card interface with answer feedback states & timer warning
 
-    ![Question Card](./assets/question-card.png)
-
+    ![Question Card](./src/assets/question-card.png)
+    ---
 
 4. Results Screen
 
-    ![Result Screen](./assets/result-screen.png)
+    ![Result Screen](./src/assets/result-screen.png)
 
 
 ---
